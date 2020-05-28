@@ -1,0 +1,78 @@
+[
+    {
+        "description": "Im Sündenpfuhl Sin City werden drei Geschichten parallel erzählt: Der Polizist Hartigan jagt einen Pädophilen, der Outlaw Dwight muss im Rotlichtbezirk untertauchen und dem Schläger Marv wird ein Mord angehängt. ",
+        "duration": 119,
+        "id": 3532674,
+        "imdbId": "tt0401792",
+        "languages": ["de", "en"],
+        "originalLanguage": "en",
+        "productionYear": 2005,
+        "studios": ["Studiocanal", "Paramount"],
+        "title": "Sin City",
+        "userrating": {
+            "countStar1": 169,
+            "countStar2": 152,
+            "countStar3": 751,
+            "countStar4": 847,
+            "countStar5": 1197,
+            "countTotal": 3116
+        }
+    },
+    {
+        "description": "1912: Der junge Indiana Jones will Grabräubern das Kreuz von Coronado abluchsen, um es in ein Museum zu bringen. Nach einem Zeitsprung ins Jahr 1938 kämpft Indy wieder um das Kreuz, diesmal erfolgreich. Anschließend soll er den Heiligen Gral suchen.",
+        "duration": 127,
+        "id": 5979300,
+        "imdbId": "tt0097576",
+        "languages": ["de", "en"],
+        "originalLanguage": "en",
+        "productionYear": 1989,
+        "studios": ["Paramount"],
+        "title": "Indiana Jones und der letzte Kreuzzug",
+        "userrating": {
+            "countStar1": 20,
+            "countStar2": 24,
+            "countStar3": 1103,
+            "countStar4": 1224,
+            "countStar5": 2349,
+            "countTotal": 4720
+        }
+    },
+    {
+        "description": "Der im Exil lebende Jedi-Ritter Obi-Wan Kenobi nimmt sich einen Mann namens Luke Skywalker als Schüler. Zusammen helfen sie der Rebellion, die Pläne des bösen Imperiums und des Sith-Lords Darth Vader zu vereiteln. ",
+        "duration": 120,
+        "id": 11043689,
+        "imdbId": "tt0076759",
+        "languages": ["de", "en"],
+        "originalLanguage": "en",
+        "productionYear": 1977,
+        "studios": ["FOX", "Paramount"],
+        "title": "Star Wars: Eine neue Hoffnung",
+        "userrating": {
+            "countStar1": 5,
+            "countStar2": 3,
+            "countStar3": 88,
+            "countStar4": 101,
+            "countStar5": 417,
+            "countTotal": 614
+        }
+    },
+    {
+        "description": "Unter der Obhut des Panthers Baghira wächst das Findelkind Mogli bei einer Wolfsfamilie auf. Doch da erschüttert die Rückkehr des menschenfressenden Tigers Shir Khan den Dschungel. Die Sorge um Mogli zwingt Baghira zu der einzig möglichen Entscheidung.",
+        "duration": 75,
+        "id": 11528860,
+        "imdbId": "tt0061852",
+        "languages": ["de", "en"],
+        "originalLanguage": "en",
+        "productionYear": 1967,
+        "studios": ["Disney"],
+        "title": "Das Dschungelbuch",
+        "userrating": {
+            "countStar1": 1,
+            "countStar2": 2,
+            "countStar3": 49,
+            "countStar4": 37,
+            "countStar5": 140,
+            "countTotal": 229
+        }
+    }
+]

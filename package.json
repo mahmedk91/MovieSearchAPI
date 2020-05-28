@@ -1,0 +1,35 @@
+{
+  "name": "movie-metadata-search",
+  "version": "1.0.0",
+  "description": "Movie Metadata Search",
+  "main": "tsconfig.js",
+  "author": "Mohd Ahmed Khan",
+  "license": "MIT",
+  "repository": "https://github.com/joyn-engineering/movie-metadata-service-nodejs-Mohd-Ahmed-Khan",
+  "scripts": {
+    "pretest": "tsc",
+    "test": "mocha --reporter spec --require ts-node/register test/**/*.spec.ts",
+    "posttest": "rm -Rf ./dist",
+    "build": "rm -Rf ./dist && tsc -p tsconfig.json",
+    "start": "npm run build && node dist/index.js",
+    "start:watch": "nodemon --watch ./ -e ts --exec DEBUG=express:* npm run start"
+  },
+  "devDependencies": {
+    "@types/body-parser": "^1.17.1",
+    "@types/chai": "^4.2.7",
+    "@types/express": "^4.17.2",
+    "@types/mocha": "^5.2.7",
+    "@types/node": "^13.1.8",
+    "chai": "^4.2.0",
+    "chai-http": "^4.3.0",
+    "mocha": "^7.0.0",
+    "nodemon": "^2.0.2",
+    "ts-node": "^8.6.2",
+    "typescript": "^3.7.5"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
